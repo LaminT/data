@@ -586,8 +586,8 @@
 		{
 			"id": "UKxPm3YEWk",
 			"name": "Det Islamiske Forbund",
-			"image_url": "",
-			"prayer_time_url": "",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"prayer_time_url": "https://time.my-masjid.com/timingscreen/baba7e84-233d-4a79-ba97-15308576a583",
 			"url": "https://islamiskeforbund.dk/",
 			"coordinates": {
 				"latitude": 55.700993,
