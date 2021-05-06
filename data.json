@@ -110,10 +110,6 @@
 			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1619973477/mosques/masjidsalsabil.png",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/073711df-a0fc-4e28-95a6-58a1f0ed5ddc",
 			"url": "https://www.facebook.com/SalsabilAarhus/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"location": {
 				"display_address": [
 					"Kappelvænget 6 C",
@@ -425,10 +421,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/4b4e59b7-311a-4a82-ac65-5865d540aaee",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.663998,
 				"longitude": 12.357761
