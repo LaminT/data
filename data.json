@@ -5,10 +5,6 @@
 			"image_url": "https://www.kfuv.dk/wp-content/uploads/2017/10/02_hjulmagervej5_facade_11.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/1820245c-9db2-4b80-b9b7-d93dbb7879ef",
 			"url": "https://www.kfuv.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 57.039504,
 				"longitude": 9.930229
@@ -30,10 +26,6 @@
 			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1619930179/mosques/masjidAlRahma.png",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/2520cf8c-7153-4095-9e26-d6bc05ef35d4",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 57.035472,
 				"longitude": 57.035472
@@ -55,10 +47,6 @@
 			"image_url": "https://ditsamfund.dk/wp-content/uploads/2020/04/82091530_348852539331257_9133739286317760512_n-e1586041523194.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/1b89a9b2-d171-4f0e-9868-a5912f5d0e0e",
 			"url": "https://ditsamfund.dk/om/menigheder/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 56.160386,
 				"longitude": 56.160386
@@ -80,10 +68,6 @@
 			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1619971723/mosques/islamickulaarhus.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/7695401e-d724-4adb-a188-ed33c2ce886e",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 56.155369,
 				"longitude": 10.203383
@@ -105,10 +89,6 @@
 			"image_url": "https://bilal-islamic-center.dk/____impro/1/onewebmedia/169764_1713146022112_8260812_o.jpg?etag=%2253f2c-5c8bc775%22&sourceContentType=image%2Fjpeg&quality=85&ignoreAspectRatio&resize=1500,917",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/45a0db73-58c7-455c-928d-a9e99d789f69",
 			"url": "https://bilal-islamic-center.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 56.142204,
 				"longitude": 10.152076
@@ -134,10 +114,6 @@
 				"alias": "masjids",
 				"title": "Masjids"
 			}],
-			"coordinates": {
-				"latitude": 56.1793845,
-				"longitude": 10.1658906
-			},
 			"location": {
 				"display_address": [
 					"Kappelvænget 6 C",
@@ -155,10 +131,6 @@
 			"image_url": "https://scontent-arn2-2.xx.fbcdn.net/v/t1.6435-9/102899929_3171831916213665_2031238796296884569_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=973b4a&_nc_ohc=UjcS_e7Bg70AX-i9FRF&_nc_ht=scontent-arn2-2.xx&oh=de49ceb825fbd26188f87b41b5ec8449&oe=60B35B06",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/726ae6ad-8d77-4cb7-b52a-bfdb540ee225",
 			"url": "https://alwakf.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 57.165195,
 				"longitude": 10.124454
@@ -180,10 +152,6 @@
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.18169-1/28471798_1010777845740236_2001074556664999204_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=jrjgTgeuoPYAX-fFRNg&_nc_ht=scontent-arn2-1.xx&oh=d30df31a0d31cef59229adcfed3e35f7&oe=60B29326",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/eb313f9e-dae0-4f1e-ab67-c7bf44456523",
 			"url": "http://islamiskcentervest.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.663998,
 				"longitude": 12.357761
@@ -205,10 +173,6 @@
 			"image_url": "https://scontent-arn2-2.xx.fbcdn.net/v/t1.6435-9/134117364_1923615334452439_596413479135272570_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=FGQCqqNucAEAX8VzF8F&_nc_ht=scontent-arn2-2.xx&oh=9b9a4d529ff8a2ab928deb61c6684262&oe=60B50087",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/e71c04a3-db20-4a9b-9cd2-c63c5970ffe7",
 			"url": "http://www.mkcenter.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.66591,
 				"longitude": 12.357804
@@ -230,10 +194,6 @@
 			"image_url": "https://ditsamfund.dk/wp-content/uploads/2020/04/84051428_361516094731568_6738817714787188736_n-e1586041570613.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/c5816387-12f0-474c-bd4f-ade0462bfa7f",
 			"url": "https://ditsamfund.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.618996,
 				"longitude": 12.424583
@@ -255,10 +215,6 @@
 			"image_url": "https://scontent-arn2-2.xx.fbcdn.net/v/t1.6435-9/46648908_2184209934936239_6817869980894232576_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=973b4a&_nc_ohc=zL0AfHus_qkAX_Sd-cl&_nc_ht=scontent-arn2-2.xx&oh=78a44dfebdcfb783aaef502fc307a032&oe=60B5AFC9",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/122f8723-e2ec-4b2d-b664-cebc9ef2c2af",
 			"url": "https://da-dk.facebook.com/Pak-Culture-Center-Brb-1111415905548986",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.619516,
 				"longitude": 12.425163
@@ -280,10 +236,6 @@
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.18169-1/28471798_1010777845740236_2001074556664999204_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=jrjgTgeuoPYAX-fFRNg&_nc_ht=scontent-arn2-1.xx&oh=d30df31a0d31cef59229adcfed3e35f7&oe=60B29326",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/72e5242b-1210-446b-8b4b-b23332ac070f",
 			"url": "https://www.facebook.com/DarulArqamDenmark/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.704521,
 				"longitude": 12.500285
@@ -305,10 +257,6 @@
 			"image_url": "https://lh3.googleusercontent.com/p/AF1QipPy8UKiSe_pQXfapgpUR3rroNOOn92gp2oA9m3h=s1600-w400",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/706051ee-1be8-430c-a6c6-e6cd7ab758bb",
 			"url": "https://maps123.net/en/DK/masjid-al-imam-ahmed-p81762",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.7103474,
 				"longitude": 12.4784786
@@ -330,10 +278,6 @@
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.18169-1/28471798_1010777845740236_2001074556664999204_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=jrjgTgeuoPYAX-fFRNg&_nc_ht=scontent-arn2-1.xx&oh=d30df31a0d31cef59229adcfed3e35f7&oe=60B29326",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/b75e9b7a-e1af-4b71-91c5-5758fc262d21",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.717534,
 				"longitude": 12.488262
@@ -355,10 +299,6 @@
 			"image_url": "https://ditsamfund.dk/wp-content/uploads/2020/04/84051428_361516094731568_6738817714787188736_n-e1586041570613.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/3e63be25-3bd5-472a-ba15-c97385fe899b",
 			"url": "https://ditsamfund.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 56.019865,
 				"longitude": 12.586265
@@ -380,10 +320,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/39c7e64b-e3b1-489a-a2f9-d0f6cf4af4b9",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.92667,
 				"longitude": 12.307336
@@ -405,10 +341,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/f76a8cef-c3cf-49a3-9a8f-2bedea07c492",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.715575,
 				"longitude": 11.716843
@@ -430,10 +362,6 @@
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.18169-9/24909893_441762036220462_474295370941929488_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=973b4a&_nc_ohc=TL6cp76HtVEAX-mNKhl&_nc_ht=scontent-arn2-1.xx&oh=7c8729ed74bf2421ff2537762c84711f&oe=60B61EE0",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/7a9c2624-6dca-4a01-9dc0-16a3c604a3be",
 			"url": "https://www.facebook.com/MasjidHolstebro/?ref=page_internal",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 56.363762,
 				"longitude": 8.59748
@@ -455,10 +383,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/a94a2ce3-9ddf-44fe-8b88-0fe0386ac6ad",
 			"url": "https://www.dit-s.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.663998,
 				"longitude": 12.357761
@@ -480,10 +404,6 @@
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/122752523_137944124738585_5715970472155954886_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=e3f864&_nc_ohc=cHpCePhfMgQAX-liwuK&_nc_ht=scontent-arn2-1.xx&oh=863d247301aa1d3e49f299731759e916&oe=60B5BE6F",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/4740249c-0f06-46f6-bdad-2074c72d95c9",
 			"url": "http://ishojmasjid.dk/index.html",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.607575,
 				"longitude": 12.353294
@@ -530,10 +450,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/c179362d-18aa-4678-ac1e-8eb3f77d1f56",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.678953,
 				"longitude": 11.093964
@@ -555,10 +471,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/4494f72e-23d0-492c-bca7-672e7bfca94a",
 			"url": "http://dcamoske.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.704978,
 				"longitude": 12.528349
@@ -580,10 +492,6 @@
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.18169-9/23843141_1293530464085605_4952130936671482681_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=973b4a&_nc_ohc=DjqrAdrfteYAX9D5zW-&_nc_ht=scontent-arn2-1.xx&oh=a97d8f5313ae51382a8701e9025b82f7&oe=60B56A5A",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/74d65997-3474-44f5-ae6a-93269cd7e9d2",
 			"url": "https://www.facebook.com/Masjidalfaruq/?ref=page_internal",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.702662,
 				"longitude": 12.544912
@@ -605,10 +513,6 @@
 			"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hamad_Bin_Khalifa_Civilisation_Center_01.JPG/1920px-Hamad_Bin_Khalifa_Civilisation_Center_01.JPG",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/3288ee62-b7e7-4a39-bf0c-00b88ceafdec",
 			"url": "https://hamad-bin-khalifa-civilisation-center.business.site/website/hamad-bin-khalifa-civilisation-center/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.7059029,
 				"longitude": 12.5448722
@@ -630,10 +534,6 @@
 			"image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/nYBhOLbnRo_c3DcQKETKjQ/o.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/61e241c6-7848-40f7-b783-e72120ffbe8a",
 			"url": "https://www.taiba.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.70506,
 				"longitude": 12.554033
@@ -655,10 +555,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/10feaa9d-34db-4811-82bc-92090324be4c",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.698960,
 				"longitude": 12.536160
@@ -680,10 +576,6 @@
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/61066742_2281709455418475_632336039146422272_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=e3f864&_nc_ohc=-CiPOzYx3KsAX9ME9_5&_nc_ht=scontent-arn2-1.xx&oh=27541a21d9e8201ce4aa47df3644f582&oe=60B6C9B4",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/e048a236-a44d-402f-80d3-786b09194172",
 			"url": "https://www.facebook.com/baitulmukarram.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.700310,
 				"longitude": 12.533050
@@ -705,10 +597,6 @@
 			"image_url": "",
 			"prayer_time_url": "",
 			"url": "https://islamiskeforbund.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.700993,
 				"longitude": 12.53447
@@ -730,10 +618,6 @@
 			"image_url": "https://images.squarespace-cdn.com/content/v1/5f0c447de6349c58c2a5db80/1600163127916-21Y7EWQ6B6GENZWHRDYY/ke17ZwdGBToddI8pDm48kPqQfq0L3n3wpHIsRapTfg8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKczo5Zn4xktlpMsMj-QlHXeMfNK6GwvtVkYEWiR8XAPyD3GfLCe_DXOSC_YcAacWL_/_DSC3505.jpg?format=1500w",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/be77d4ed-cef0-444c-9bf5-a2ae93301833",
 			"url": "https://www.cpharchive.com/dk/hjem/islamic-cultural-center",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.711226,
 				"longitude": 12.514759
@@ -755,10 +639,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/8daf4235-25ba-4159-84d2-a8e2d5978aa7",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.703314,
 				"longitude": 12.530017
@@ -780,10 +660,6 @@
 			"image_url": "https://www.minhaj.net/images-sliders/Minhaj-ul-Quran_Denmark_01.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/0ab0f6a8-abf5-42b7-a9d2-7d2b2a7924a5",
 			"url": "https://www.minhaj.org/english/Denmark/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.707224,
 				"longitude": 12.528712
@@ -805,10 +681,6 @@
 			"image_url": "https://www.wakf.com/images/news/ramadan-iftar-20062015-2.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/9adfcd42-a7bf-42d1-ae25-3f24c4d30bf4",
 			"url": "https://wakf.com/index.php/da/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.708380,
 				"longitude": 12.525450
@@ -830,10 +702,6 @@
 			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620009191/mosques/masjidiman.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/85966a2e-4c6d-48fa-9aa8-c29d1052e51c",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.661505,
 				"longitude": 12.602041
@@ -855,10 +723,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/dab03c88-556a-4c1b-91be-129a5b9a783b",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.653301,
 				"longitude": 12.620392
@@ -880,10 +744,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/071ac67c-6a8f-494d-b393-f8a5f9034c95",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.664472,
 				"longitude": 12.607735
@@ -905,10 +765,6 @@
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t31.18172-8/15800744_1813735948915188_938756106463214104_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=973b4a&_nc_ohc=JMD6NRrW_ysAX8R9v_f&_nc_ht=scontent-arn2-1.xx&oh=a89094ba9a25691321393ccb5bb42c85&oe=60B4531D",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/14cccad1-134c-40ef-81a0-9d7394bf7954",
 			"url": "https://www.minhaj.org/english/Denmark",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.660568,
 				"longitude": 12.61368
@@ -930,10 +786,6 @@
 			"image_url": "https://ditsamfund.dk/wp-content/uploads/2020/04/84051428_361516094731568_6738817714787188736_n-e1586041570613.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/1a2dfc25-c390-4074-a025-eca1670615d0",
 			"url": "https://ditsamfund.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.670733,
 				"longitude": 12.548812
@@ -955,10 +807,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/d1060b66-46e5-4b68-b610-448af4f7731e",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.672796,
 				"longitude": 12.550618
@@ -980,10 +828,6 @@
 			"image_url": "https://ditsamfund.dk/wp-content/uploads/2020/04/84051428_361516094731568_6738817714787188736_n-e1586041570613.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/0910708d-f602-47af-b00b-866b9e893ed4",
 			"url": "https://ditsamfund.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.904739,
 				"longitude": 12.476174
@@ -1005,10 +849,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/33c1c8b9-6908-4e19-9b95-a40b08bfa920",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.503645,
 				"longitude": 9.473463
@@ -1030,10 +870,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/b0e9acdc-e1cb-4af2-8925-2fe589248cfa",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.345911,
 				"longitude": 11.137621
@@ -1055,10 +891,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/0fc9938b-e54c-4401-9665-d134e00832fc",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.797760,
 				"longitude": 12.523730
@@ -1080,10 +912,6 @@
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/60592452_2716562365026944_8043045909300248576_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=973b4a&_nc_ohc=KxG8vpL7ThwAX-B8t7v&_nc_ht=scontent-arn2-1.xx&oh=60a63fa81c96367f21f7d30060566827&oe=60B591CE",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/d0fd171f-8d60-4e1c-b980-f3627c6da2f1",
 			"url": "https://www.facebook.com/Masjid-N%C3%A6stved-714479691901898/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.247771,
 				"longitude": 11.76112
@@ -1105,10 +933,6 @@
 			"image_url": "https://lh3.googleusercontent.com/p/AF1QipNCIiaUkMn1BuQhHUP0eKyQzDAj3cTBwJr2d8A0=s1600-w400",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/41c8898e-bf69-4af3-b4e3-acc6c21f383b",
 			"url": "https://maps123.net/en/DK/prayer-hall-mosque-p86648",
-			"categories": [{
-				"alias": 55.9370628,
-				"title": 12.5044621
-			}],
 			"coordinates": {
 				"latitude": 55.663998,
 				"longitude": 12.357761
@@ -1130,10 +954,6 @@
 			"image_url": "",
 			"prayer_time_url": "",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.310327,
 				"longitude": 10.792357
@@ -1155,10 +975,6 @@
 			"image_url": "https://lh3.googleusercontent.com/VuHfO1DJHdaa3hQ5Pot5Wgv1HnKAUofy3vuiuDJNgZoDS7HGwam3M5_uRGengA_UBGP8IrjqnzeEokLF=w1080-h608-p-no-v0",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/6253533e-1f2d-4357-b573-8bbf6b912df8",
 			"url": "https://danske-muslimer-pa-lolland-falster.business.site/?utm_source=gmb&utm_medium=referral",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 54.76844,
 				"longitude": 11.87375
@@ -1180,10 +996,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/50dfcfa3-0e8d-41d8-8e8a-e67ac06f5629",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.441913,
 				"longitude": 11.802117
@@ -1205,10 +1017,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/6be0c65b-4bf8-44e5-870e-6cf9a55b687d",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.257702,
 				"longitude": 11.305777
@@ -1230,10 +1038,6 @@
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/56811342_2184915798266969_7838829379835658240_n.png?_nc_cat=107&ccb=1-3&_nc_sid=e3f864&_nc_ohc=WYGsLVKYPSkAX-ppFJh&_nc_ht=scontent-arn2-1.xx&oh=87bb78f2d6c29d384a874759abe8615c&oe=60B5DA1D",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/5f3bcfff-4705-43c6-bd29-3374b4105718",
 			"url": "https://www.facebook.com/Det-Islamiske-Hus-DIH--157467311011838/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 56.553309,
 				"longitude": 9.017468
@@ -1255,10 +1059,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/44bd9895-7215-4f34-950d-5cd1abf0fd86",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.415704,
 				"longitude": 11.354203
@@ -1280,10 +1080,6 @@
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/50326228_523855964690136_8194823237427789824_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=973b4a&_nc_ohc=GbtxCvIn5pkAX-Y4tqh&_nc_ht=scontent-arn2-1.xx&oh=432d01b697dbd48e3afbbda3739002b1&oe=60B690F0",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/e303cd11-0edd-4221-890b-863a5c0e58a8",
 			"url": "https://www.facebook.com/pages/category/Nonprofit-Organization/Tawfiq-Kulturcenter-TKC-522165641525835/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.4050365,
 				"longitude": 11.3518494
@@ -1305,10 +1101,6 @@
 			"image_url": "http://www.afgdk.dk/wp-content/uploads/2013/12/billede-udefra1-300x207.png",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/483a2542-fe13-4e8e-822d-02ef12f2d080",
 			"url": "http://www.afgdk.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.73689,
 				"longitude": 12.482326
@@ -1330,10 +1122,6 @@
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/34598768_820897724773961_5468375257737854976_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=zX04DSpMvHYAX9EKSv6&_nc_ht=scontent-arn2-1.xx&oh=fa86319d99ae442d84f84d50a61e3bd9&oe=60B53FAF",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/4cf1bfce-34cf-4bd3-ab85-e380ee4d94e8",
 			"url": "https://www.facebook.com/iqrakultur/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 54.918885,
 				"longitude": 9.814319
@@ -1355,10 +1143,6 @@
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.18169-9/64065_148980371810048_1536996_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=973b4a&_nc_ohc=CdX-n4q0RaAAX-Yi2_f&_nc_ht=scontent-arn2-1.xx&oh=ff3059adc11385551235daa4cca2a7cd&oe=60B43780",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/0e95e321-a7eb-486f-af37-c97653c96eda",
 			"url": "https://sv-se.facebook.com/Islamisk-Forum-Taastrup-148880561820029/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.652014,
 				"longitude": 12.303697
@@ -1380,10 +1164,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/6abbf8c7-601c-4158-b2bf-b5b12e82fe35",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.653877,
 				"longitude": 12.286623
@@ -1405,10 +1185,6 @@
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/161437365_10159045188239696_3062714561937138771_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=973b4a&_nc_ohc=7EhGTMdAVCoAX8OnTtN&_nc_ht=scontent-arn2-1.xx&oh=9ea20ec323cd0a049a37ff5e9b01179c&oe=60B68039",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/8107912b-1637-4824-9279-07c57f8b2198",
 			"url": "http://imammalik.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.648535,
 				"longitude": 12.507005
@@ -1430,10 +1206,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/804dbcfc-c52f-47d4-a22d-8cde797f13c4",
 			"url": "http://www.furkan.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.65358,
 				"longitude": 12.501672
@@ -1455,10 +1227,6 @@
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-1/48359250_1955612341402114_5911197849223168000_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=_y0ju7vP-2sAX8PWalt&_nc_ht=scontent-arn2-1.xx&oh=b5aeb6962410285ef06373bd1cff64a9&oe=60B3307F",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/629bd535-44ea-4ad2-a165-4d15d5deda2c",
 			"url": "https://www.minhaj.org/english/denmark",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.665709,
 				"longitude": 12.519488
@@ -1480,10 +1248,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/b9a36edb-de7c-49d8-96c8-5d62b650a17e",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.625634,
 				"longitude": 8.479639
@@ -1505,10 +1269,6 @@
 			"image_url": "https://ditsamfund.dk/wp-content/uploads/2020/04/82091530_348852539331257_9133739286317760512_n-e1586041523194.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/6adb1b21-6163-4bef-a2bd-9e0b490a28ab",
 			"url": "https://ditsamfund.dk/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.721069,
 				"longitude": 9.560219
@@ -1530,10 +1290,6 @@
 			"image_url": "https://lh3.googleusercontent.com/p/AF1QipOHKs-22D-S1ho3DXk_hM7zmctjqFyM8E26JVRS=s1600-w400",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/5308bbc3-e933-4c8a-b0b3-12c2d644c03f",
 			"url": "https://maps123.net/en/DK/masjid-alsalam-in-vordingborg-city-dansk-muslimsk-venskabsforening-p33704",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.0076566,
 				"longitude": 11.9147639
@@ -1555,10 +1311,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/b834eea4-9412-433f-bf1b-2b4ebf5dd316",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.5822716,
 				"longitude": 13.0193448
@@ -1580,10 +1332,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/d81c3f42-7b4a-43d0-8f22-1a747a17083b",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.5870505,
 				"longitude": 13.036539
@@ -1605,10 +1353,6 @@
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t31.18172-8/17191785_1868102406770748_4507896688442843849_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=973b4a&_nc_ohc=1ShHkGE9d1wAX9J7xDs&_nc_ht=scontent-arn2-1.xx&oh=d22606d8876e591c8a9357e959658695&oe=60B75F7B",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/c1202ced-6935-48de-b3a6-f78cab79da8e",
 			"url": "https://www.wakf.se/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.5988208,
 				"longitude": 13.0458943
@@ -1630,10 +1374,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/7255efef-15f1-4c8e-a52d-b54e8e8eef0e",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.5662806,
 				"longitude": 13.0198866
@@ -1655,10 +1395,6 @@
 			"image_url": "https://d2f0ora2gkri0g.cloudfront.net/bkpam2166147_img_2654.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/b5074095-419f-4fb0-b078-75730a56fcf0",
 			"url": "https://www.mosken.se/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.571941,
 				"longitude": 13.0560438
@@ -1680,10 +1416,6 @@
 			"image_url": "",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/fb062588-16ad-4b6a-b4f9-5821e01b7f8f",
 			"url": "",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.584595,
 				"longitude": 13.0358597
@@ -1705,10 +1437,6 @@
 			"image_url": "https://scontent-arn2-2.xx.fbcdn.net/v/t31.18172-8/19800931_820919868058469_5208676552802630392_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=973b4a&_nc_ohc=MTgPuCmoDXIAX8-ZIKx&_nc_ht=scontent-arn2-2.xx&oh=c7e7dac0e5d8c8927c65862f5a01f398&oe=60B5E7C0",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/ebe4047a-73b8-4215-8cf2-bdf7d9b5f8ca",
 			"url": "https://www.facebook.com/ForeningenDrita/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.5800597,
 				"longitude": 13.0521041
@@ -1730,10 +1458,6 @@
 			"image_url": "https://www.minhaj.net/images-db10/2018/Dr-Tahir-ul-Qadri-address-conference_Malmo-Sweden_2018-08-08_4.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/e329fd11-4ea2-430b-adc9-bb9a8b2ff0d0",
 			"url": "http://www.minhaj.se/",
-			"categories": [{
-				"alias": "masjids",
-				"title": "Masjids"
-			}],
 			"coordinates": {
 				"latitude": 55.5853088,
 				"longitude": 13.0129239
