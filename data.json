@@ -48,8 +48,8 @@
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/1b89a9b2-d171-4f0e-9868-a5912f5d0e0e",
 			"url": "https://ditsamfund.dk/om/menigheder/",
 			"coordinates": {
-				"latitude": 56.160386,
-				"longitude": 56.160386
+				"latitude":  56.1604,
+				"longitude": 10.205739
 			},
 			"location": {
 				"display_address": [
@@ -59,7 +59,7 @@
 				]
 			},
 			"phone": "+4541333304",
-			"display_phone": "+45 45 41 33 33 04",
+			"display_phone": "+45 41 33 33 04",
 			"distance": 185.18
 		},
 		{
