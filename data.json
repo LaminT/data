@@ -27,8 +27,8 @@
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/2520cf8c-7153-4095-9e26-d6bc05ef35d4",
 			"url": "",
 			"coordinates": {
-				"latitude": 57.035472,
-				"longitude": 57.035472
+				"latitude": 57.035470,
+				"longitude": 10.005160
 			},
 			"location": {
 				"display_address": [
@@ -1346,8 +1346,8 @@
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/c1202ced-6935-48de-b3a6-f78cab79da8e",
 			"url": "https://www.wakf.se/",
 			"coordinates": {
-				"latitude": 55.5988208,
-				"longitude": 13.0458943
+				"latitude": 55.596588,
+				"longitude": 13.042030
 			},
 			"location": {
 				"display_address": [
