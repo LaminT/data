@@ -86,7 +86,7 @@
 		{
 			"id": "IhT-ATCbat",
 			"name": "Masjid Bilal",
-			"image_url": "https://bilal-islamic-center.dk/____impro/1/onewebmedia/169764_1713146022112_8260812_o.jpg?etag=%2253f2c-5c8bc775%22&sourceContentType=image%2Fjpeg&quality=85&ignoreAspectRatio&resize=1500,917",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620348139/mosques/bilal.png",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/45a0db73-58c7-455c-928d-a9e99d789f69",
 			"url": "https://bilal-islamic-center.dk/",
 			"coordinates": {
@@ -1090,7 +1090,7 @@
 		{
 			"id": "C4BT0J-7WC",
 			"name": "Afghan Cultural Center",
-			"image_url": "http://www.afgdk.dk/wp-content/uploads/2013/12/billede-udefra1-300x207.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620347686/mosques/afghan.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/483a2542-fe13-4e8e-822d-02ef12f2d080",
 			"url": "http://www.afgdk.dk/",
 			"coordinates": {
