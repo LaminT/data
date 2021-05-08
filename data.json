@@ -109,7 +109,7 @@
 			"name": "Masjid Salsabil",
 			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1619973477/mosques/masjidsalsabil.png",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/073711df-a0fc-4e28-95a6-58a1f0ed5ddc",
-			"url": "https: "",
+			"url": "",
 			"location": {
 				"display_address": [
 					"Kappelvænget 6 C",
@@ -1399,7 +1399,7 @@
 				]
 			},
 			"phone": "+4640228320",
-			"display_phone": "+46 402-28 320",
+			"display_phone": "+46 40-2283 20",
 			"distance": 4.98
 		},
 		{
