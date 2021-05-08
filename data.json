@@ -775,7 +775,7 @@
 		{
 			"id": "aDdsYK_Pn-",
 			"name": "København Islamisk Menighed",
-			"image_url": "https://ditsamfund.dk/wp-content/uploads/2020/04/84051428_361516094731568_6738817714787188736_n-e1586041570613.jpg",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620478226/mosques/ditsamfund.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/1a2dfc25-c390-4074-a025-eca1670615d0",
 			"url": "https://ditsamfund.dk/",
 			"coordinates": {
@@ -1258,7 +1258,7 @@
 		{
 			"id": "UL3J_aUt79",
 			"name": "Vejle Islamisk Menighed",
-			"image_url": "https://ditsamfund.dk/wp-content/uploads/2020/04/82091530_348852539331257_9133739286317760512_n-e1586041523194.jpg",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620478226/mosques/ditsamfund.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/6adb1b21-6163-4bef-a2bd-9e0b490a28ab",
 			"url": "https://ditsamfund.dk/",
 			"coordinates": {
@@ -1315,7 +1315,7 @@
 				]
 			},
 			"phone": "+46738800271",
-			"display_phone": "+46 7 38 80 02 71",
+			"display_phone": "+46 73-88002 71",
 			"distance": 2.75
 		},
 		{
@@ -1357,7 +1357,7 @@
 				]
 			},
 			"phone": "+46767000070",
-			"display_phone": "+46 76 70 00 070",
+			"display_phone": "+46 76-700 00 70",
 			"distance": 5.17
 		},
 		{
@@ -1428,7 +1428,7 @@
 			"name": "Islamiska Föreningen Drita",
 			"image_url": "https://scontent-arn2-2.xx.fbcdn.net/v/t31.18172-8/19800931_820919868058469_5208676552802630392_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=973b4a&_nc_ohc=MTgPuCmoDXIAX8-ZIKx&_nc_ht=scontent-arn2-2.xx&oh=c7e7dac0e5d8c8927c65862f5a01f398&oe=60B5E7C0",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/ebe4047a-73b8-4215-8cf2-bdf7d9b5f8ca",
-			"url": "https://www.facebook.com/ForeningenDrita/",
+			"url": "",
 			"coordinates": {
 				"latitude": 55.5800597,
 				"longitude": 13.0521041
@@ -1441,7 +1441,7 @@
 				]
 			},
 			"phone": "+46768901892",
-			"display_phone": "+46 76 89 01 892",
+			"display_phone": "+46 76-890 18 92",
 			"distance": 4.17
 		},
 		{
@@ -1462,7 +1462,7 @@
 				]
 			},
 			"phone": "+4640190555",
-			"display_phone": "+46 40 1905 55",
+			"display_phone": "+46 40-19 05 55",
 			"distance": 2.61
 		}
 
