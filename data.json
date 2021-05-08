@@ -44,7 +44,7 @@
 		{
 			"id": "R6Ye7gscTk",
 			"name": "Århus Islamisk Menighed",
-			"image_url": "https://ditsamfund.dk/wp-content/uploads/2020/04/82091530_348852539331257_9133739286317760512_n-e1586041523194.jpg",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620478226/mosques/ditsamfund.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/1b89a9b2-d171-4f0e-9868-a5912f5d0e0e",
 			"url": "https://ditsamfund.dk/om/menigheder/",
 			"coordinates": {
@@ -229,9 +229,9 @@
 		{
 			"id": "ZOQGhANMD2",
 			"name": "Darul Arqam Center",
-			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.18169-1/28471798_1010777845740236_2001074556664999204_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=jrjgTgeuoPYAX-fFRNg&_nc_ht=scontent-arn2-1.xx&oh=d30df31a0d31cef59229adcfed3e35f7&oe=60B29326",
+			"image_url": "http://www.darularqam.dk/wp-content/uploads/2020/09/logo08.png",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/72e5242b-1210-446b-8b4b-b23332ac070f",
-			"url": "https://www.facebook.com/DarulArqamDenmark/",
+			"url": "https://www.darularqam.dk/",
 			"coordinates": {
 				"latitude": 55.704521,
 				"longitude": 12.500285
@@ -271,7 +271,7 @@
 		{
 			"id": "2ZLV6f_MiE",
 			"name": "Masjid Al-Muhsinin",
-			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.18169-1/28471798_1010777845740236_2001074556664999204_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=jrjgTgeuoPYAX-fFRNg&_nc_ht=scontent-arn2-1.xx&oh=d30df31a0d31cef59229adcfed3e35f7&oe=60B29326",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620476313/mosques/mushsinin.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/b75e9b7a-e1af-4b71-91c5-5758fc262d21",
 			"url": "",
 			"coordinates": {
