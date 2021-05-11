@@ -1383,13 +1383,13 @@
 		},
 		{
 			"id": "gN9KsAd6gI",
-			"name": "Islamic Center i Malmö",
+			"name": "Islamic Centers Församling",
 			"image_url": "https://d2f0ora2gkri0g.cloudfront.net/bkpam2166147_img_2654.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/b5074095-419f-4fb0-b078-75730a56fcf0",
 			"url": "https://www.mosken.se/",
 			"coordinates": {
-				"latitude": 55.571941,
-				"longitude": 13.0560438
+				"latitude": 55.575054,
+				"longitude": 13.051346
 			},
 			"location": {
 				"display_address": [
