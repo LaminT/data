@@ -48,7 +48,7 @@
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/1b89a9b2-d171-4f0e-9868-a5912f5d0e0e",
 			"url": "https://ditsamfund.dk/om/menigheder/",
 			"coordinates": {
-				"latitude":  56.1604,
+				"latitude": 56.1604,
 				"longitude": 10.205739
 			},
 			"location": {
@@ -165,13 +165,13 @@
 		},
 		{
 			"id": "WOgJ5gxDxD",
-			"name": "MKC-Vestegnen",
+			"name": "MKC-Vestegnen, Muslimsk Kulturcenter",
 			"image_url": "https://scontent-arn2-2.xx.fbcdn.net/v/t1.6435-9/134117364_1923615334452439_596413479135272570_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=FGQCqqNucAEAX8VzF8F&_nc_ht=scontent-arn2-2.xx&oh=9b9a4d529ff8a2ab928deb61c6684262&oe=60B50087",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/e71c04a3-db20-4a9b-9cd2-c63c5970ffe7",
 			"url": "http://www.mkcenter.dk/",
 			"coordinates": {
-				"latitude": 55.66591,
-				"longitude": 12.357804
+				"latitude": 55.666089,
+				"longitude": 12.357785
 			},
 			"location": {
 				"display_address": [
@@ -182,7 +182,7 @@
 			},
 			"phone": "+4550325051",
 			"display_phone": "+45 50 32 50 51",
-			"distance": 40.88
+			"distance": 50
 		},
 		{
 			"id": "g13CKXfUUW",
@@ -228,13 +228,13 @@
 		},
 		{
 			"id": "ZOQGhANMD2",
-			"name": "Darul Arqam Center",
+			"name": "Darul Arqam Mosque",
 			"image_url": "https://www.darularqam.dk/wp-content/uploads/2020/10/73186053_2427683224171205_1734639485859135488_n.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/72e5242b-1210-446b-8b4b-b23332ac070f",
 			"url": "https://www.darularqam.dk/",
 			"coordinates": {
-				"latitude": 55.704683,
-				"longitude": 12.5004895
+				"latitude": 55.704797,
+				"longitude": 12.500578
 			},
 			"location": {
 				"display_address": [
@@ -245,8 +245,32 @@
 			},
 			"phone": "+4531718346",
 			"display_phone": "+45 31 71 83 46",
-			"distance": 33.28
+			"distance": 43
 		},
+
+		{
+			"id": "ojhnBHX0GA",
+			"name": "Den Muslimske",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"prayer_time_url": "",
+			"url": "",
+			"coordinates": {
+				"latitude": 55.693930,
+				"longitude": 12.482140
+			},
+			"location": {
+				"display_address": [
+					"Skjulhøj Allé 29",
+					"272o Vanløse",
+					"Denmark"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 44
+		},
+
+
 		{
 			"id": "U81dQwldlb",
 			"name": "Masjid Al-Imam",
@@ -497,28 +521,28 @@
 			},
 			"phone": "",
 			"display_phone": "",
-			"distance": 31.18
+			"distance": 44
 		},
 		{
 			"id": "1jbMLtnfUf",
-			"name": "Khair al Bariya Moskéen",
+			"name": "Khayr El-Barriya Moskeen",
 			"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hamad_Bin_Khalifa_Civilisation_Center_01.JPG/1920px-Hamad_Bin_Khalifa_Civilisation_Center_01.JPG",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/3288ee62-b7e7-4a39-bf0c-00b88ceafdec",
 			"url": "https://hamad-bin-khalifa-civilisation-center.business.site/website/hamad-bin-khalifa-civilisation-center/",
 			"coordinates": {
-				"latitude": 55.7059029,
-				"longitude": 12.5448722
+				"latitude": 55.708576,
+				"longitude": 12.549007
 			},
 			"location": {
 				"display_address": [
-					"Vingelodden 1",
-					"2200 København N",
+					"Vingelodden 1A",
+					"2200 København Ø",
 					"Denmark"
 				]
 			},
 			"phone": "+4542909200",
 			"display_phone": "+45 42 90 92 00",
-			"distance": 31.32
+			"distance": 48
 		},
 		{
 			"id": "K-GCX0UUAD",
@@ -527,7 +551,7 @@
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/61e241c6-7848-40f7-b783-e72120ffbe8a",
 			"url": "https://www.taiba.dk/",
 			"coordinates": {
-				"latitude": 55.70506,
+				"latitude": 55.705060,
 				"longitude": 12.554033
 			},
 			"location": {
@@ -537,9 +561,9 @@
 					"Denmark"
 				]
 			},
-			"phone": "+4535853936",
-			"display_phone": "+45 35 85 39 36",
-			"distance": 30.77
+			"phone": "+4542755251",
+			"display_phone": "+45 42 75 52 51",
+			"distance": 44
 		},
 		{
 			"id": "VI-WYN5ofI",
@@ -585,8 +609,8 @@
 		},
 		{
 			"id": "UKxPm3YEWk",
-			"name": "Det Islamiske Forbund",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"name": "Det Islamiske Forbund I Danmark",
+			"image_url": "https://islamiskeforbund.dk/wp-content/uploads/2018/12/cropped-moske_billede-A_-3-1.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/baba7e84-233d-4a79-ba97-15308576a583",
 			"url": "https://islamiskeforbund.dk/",
 			"coordinates": {
@@ -606,13 +630,13 @@
 		},
 		{
 			"id": "igcwl8aU_O",
-			"name": "Islamic Cultural Center",
+			"name": "Islamic Kultur Center",
 			"image_url": "https://images.squarespace-cdn.com/content/v1/5f0c447de6349c58c2a5db80/1600163127916-21Y7EWQ6B6GENZWHRDYY/ke17ZwdGBToddI8pDm48kPqQfq0L3n3wpHIsRapTfg8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKczo5Zn4xktlpMsMj-QlHXeMfNK6GwvtVkYEWiR8XAPyD3GfLCe_DXOSC_YcAacWL_/_DSC3505.jpg?format=1500w",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/be77d4ed-cef0-444c-9bf5-a2ae93301833",
 			"url": "https://www.cpharchive.com/dk/hjem/islamic-cultural-center",
 			"coordinates": {
-				"latitude": 55.711226,
-				"longitude": 12.514759
+				"latitude": 55.711289,
+				"longitude": 12.514855
 			},
 			"location": {
 				"display_address": [
@@ -623,7 +647,7 @@
 			},
 			"phone": "+4538609017",
 			"display_phone": "+45 38 60 90 17 ",
-			"distance": 33.26
+			"distance": 42
 		},
 		{
 			"id": "JAaRxTApes",
@@ -648,10 +672,10 @@
 		},
 		{
 			"id": "nRKI9QWLiD",
-			"name": "Minhaj Ul Quran Int. Denmark",
+			"name": "Minhaj Ul Quran International Denmark",
 			"image_url": "https://www.minhaj.net/images-sliders/Minhaj-ul-Quran_Denmark_01.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/0ab0f6a8-abf5-42b7-a9d2-7d2b2a7924a5",
-			"url": "https://www.minhaj.org/english/Denmark/",
+			"url": "http://www.minhaj.dk/",
 			"coordinates": {
 				"latitude": 55.707224,
 				"longitude": 12.528712
@@ -665,17 +689,41 @@
 			},
 			"phone": "+4550400200",
 			"display_phone": "+45 50 40 02 00 ",
-			"distance": 32.28
+			"distance": 42
 		},
+
+		{
+			"id": "9L1dtrfgT3",
+			"name": "Al-Hidayyah Moské",
+			"image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/M_byVdHsmX4bYNGa-SS-cQ/o.jpg",
+			"prayer_time_url": "",
+			"url": "icel.dk",
+			"coordinates": {
+				"latitude": 55.707179,
+				"longitude": 12.529949
+			},
+			"location": {
+				"display_address": [
+					"Bispevej 4",
+					"2400 København NV",
+					"Denmark"
+				]
+			},
+			"phone": "+4535390014",
+			"display_phone": "+45 35 39 00 14",
+			"distance": 42
+		},
+
+
 		{
 			"id": "lyZ81Tekz1",
-			"name": "DIT-Wakf",
-			"image_url": "https://www.wakf.com/images/news/ramadan-iftar-20062015-2.jpg",
+			"name": "Det Islamiske Trossamfund I Danmark",
+			"image_url": "https://lh3.googleusercontent.com/p/AF1QipOH5_WgTeQsmRVe_e6wCF_8u8E8WjfJyUhiVdM9=w600-k",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/9adfcd42-a7bf-42d1-ae25-3f24c4d30bf4",
 			"url": "https://wakf.com/index.php/da/",
 			"coordinates": {
-				"latitude": 55.708380,
-				"longitude": 12.525450
+				"latitude": 55.708282,
+				"longitude": 12.525390
 			},
 			"location": {
 				"display_address": [
@@ -686,7 +734,7 @@
 			},
 			"phone": "+4538112225",
 			"display_phone": "+45 38 11 22 25",
-			"distance": 32.52
+			"distance": 43
 		},
 		{
 			"id": "sJQHfG5CTx",
@@ -753,13 +801,13 @@
 		},
 		{
 			"id": "geKIesauNh",
-			"name": "Minhaj Ul-Quran Int. Amager",
+			"name": "Minhaj-ul-Quran International Denmark, Amager",
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t31.18172-8/15800744_1813735948915188_938756106463214104_o.jpg?_nc_cat=101&ccb=1-3&_nc_sid=973b4a&_nc_ohc=JMD6NRrW_ysAX8R9v_f&_nc_ht=scontent-arn2-1.xx&oh=a89094ba9a25691321393ccb5bb42c85&oe=60B4531D",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/14cccad1-134c-40ef-81a0-9d7394bf7954",
 			"url": "https://www.minhaj.org/english/Denmark",
 			"coordinates": {
-				"latitude": 55.660568,
-				"longitude": 12.61368
+				"latitude": 55.660548,
+				"longitude": 12.613544
 			},
 			"location": {
 				"display_address": [
@@ -795,25 +843,225 @@
 		},
 		{
 			"id": "s6I1VJonAS",
-			"name": "Masjid - Alfath",
+			"name": "Moské Al-Fath",
 			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/d1060b66-46e5-4b68-b610-448af4f7731e",
 			"url": "",
 			"coordinates": {
-				"latitude": 55.672796,
-				"longitude": 12.550618
+				"latitude": 55.673031,
+				"longitude": 12.550657
 			},
 			"location": {
 				"display_address": [
-					"Vesterbrogade 80",
+					"Vesterbrogade 80A",
 					"1620 København V",
 					"Denmark"
 				]
 			},
-			"phone": "+4560860780",
-			"display_phone": "+45 60 86 07 80",
-			"distance": 29.39
+			"phone": "+4529704904",
+			"display_phone": "+45 29 70 49 04",
+			"distance": 37
 		},
+
+		{
+			"id": "H2TQPvl6JX",
+			"name": "Den Albanske Troessamfund i Danmark",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"prayer_time_url": "",
+			"url": "",
+			"coordinates": {
+				"latitude": 55.675669,
+				"longitude": 12.554766
+			},
+			"location": {
+				"display_address": [
+					"Vodroffsvej 8",
+					"1900 Fredeiksberg C",
+					"Denmark"
+				]
+			},
+			"phone": "+4521661860",
+			"display_phone": "+45 21 66 18 60",
+			"distance": 37
+		},
+		{
+			"id": "xu0UbDMiH4",
+			"name": "Dansk Islamisk Center",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"prayer_time_url": "",
+			"url": "dicenter.dk",
+			"coordinates": {
+				"latitude": 55.686971,
+				"longitude": 12.561602
+			},
+			"location": {
+				"display_address": [
+					"Bernhard Bangs Alle 23, 1",
+					"2000 Frederiksberg",
+					"Denmark"
+				]
+			},
+			"phone": "+4570222600",
+			"display_phone": "+45 70 22 26 00",
+			"distance": 39
+		},
+
+		{
+			"id": "usVpLg_Kki",
+			"name": "Masjid Al-Nour",
+			"image_url": "https://scontent-arn2-2.xx.fbcdn.net/v/t1.6435-9/53259876_2164817673561343_1288452174044463104_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=973b4a&_nc_ohc=CKllQ3hOmPAAX8MlQqn&_nc_ht=scontent-arn2-2.xx&oh=74dbe4a09db5a9b5cd9a0654398af5c4&oe=60BE6174",
+			"prayer_time_url": "",
+			"url": "",
+			"coordinates": {
+				"latitude": 55.687322,
+				"longitude": 12.559013
+			},
+			"location": {
+				"display_address": [
+					"Baggesensgade 16",
+					"2200 Københaven N",
+					"Denmark"
+				]
+			},
+			"phone": "+4527293647",
+			"display_phone": "+45 27 29 36 47",
+			"distance": 39
+		},
+
+		{
+			"id": "QjuVVYNUEe",
+			"name": "Islamisk Kultur Center",
+			"image_url": "https://islamiskkulturcenter.dk/wp-content/uploads/2020/06/Fatih-Camii-brochure1372-1536x956.jpg",
+			"prayer_time_url": "",
+			"url": "https://islamiskkulturcenter.dk/",
+			"coordinates": {
+				"latitude": 55.690175,
+				"longitude": 12.558415
+			},
+			"location": {
+				"display_address": [
+					"Valdemarsgade 3",
+					"1665 København",
+					"Denmark"
+				]
+			},
+			"phone": "+4533215194",
+			"display_phone": "+45 33 21 51 94",
+			"distance": 39
+		},
+
+		{
+			"id": "iaemjxQGo9",
+			"name": "Masjid Tawhiid",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"prayer_time_url": "",
+			"url": "",
+			"coordinates": {
+				"latitude": 55.696031,
+				"longitude": 12.535827
+			},
+			"location": {
+				"display_address": [
+					"Nordre Fasanvej 186B",
+					"2000 Frederiksberg",
+					"Denmark"
+				]
+			},
+			"phone": "+4538107724",
+			"display_phone": "+45 38 10 77 24",
+			"distance": 43
+		},
+
+		{
+			"id": "evY7_yBL4L",
+			"name": "Imam Ali Moske",
+			"image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/RinlqyUNyXQ1AJRlwOw5sA/o.jpg",
+			"prayer_time_url": "",
+			"url": "http://www.imamalimoske.dk/",
+			"coordinates": {
+				"latitude": 55.700489,
+				"longitude": 12.532067
+			},
+			"location": {
+				"display_address": [
+					"Vibevej 23",
+					"2400 København NV",
+					"Denmark"
+				]
+			},
+			"phone": "+4538100078",
+			"display_phone": "+45 38 10 00 78",
+			"distance": 43
+		},
+		{
+			"id": "YnAfqZfFh6",
+			"name": "Den Makedonske Moske Forening Prespa",
+			"image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/HgorknA6yiyaNe6iwnIP2Q/o.jpg",
+			"prayer_time_url": "",
+			"url": "",
+			"coordinates": {
+				"latitude": 55.700706,
+				"longitude": 12.530341
+			},
+			"location": {
+				"display_address": [
+					"Tranevej 16, 1 sal.",
+					"2400 København NV",
+					"Denmark"
+				]
+			},
+			"phone": "+4528501323",
+			"display_phone": "+45 28 50 13 23",
+			"distance": 43
+		},
+
+
+
+		{
+			"id": "ce2skIBK7x",
+			"name": "Bosnisk Kulturcenter",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"prayer_time_url": "",
+			"url": "http://www.izbd.dk/",
+			"coordinates": {
+				"latitude": 55.697389,
+				"longitude": 12.548918
+			},
+			"location": {
+				"display_address": [
+					"Thorsgade 5, Th 3.sal.",
+					"2200 København N",
+					"Denmark"
+				]
+			},
+			"phone": "+4535840732",
+			"display_phone": "+45 35 84 07 32",
+			"distance": 42
+		},
+
+
+		{
+			"id": "Oj1Ip40xf8",
+			"name": "Den Tyrkiske Moske",
+			"image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/MKF-tIdrjPZ9QEHPftalUg/o.jpg",
+			"prayer_time_url": "",
+			"url": "",
+			"coordinates": {
+				"latitude": 55.679484,
+				"longitude": 12.547631
+			},
+			"location": {
+				"display_address": [
+					"HC Ørstedsvej 29",
+					"1879 Fredeiksberg C",
+					"Denmark"
+				]
+			},
+			"phone": "+4533239154",
+			"display_phone": "+45 33 23 91 54",
+			"distance": 38
+		},
+
 		{
 			"id": "vMnrLysCz5",
 			"name": "Kokkedal Islamisk Menighed",
@@ -1178,8 +1426,8 @@
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/8107912b-1637-4824-9279-07c57f8b2198",
 			"url": "http://imammalik.dk/",
 			"coordinates": {
-				"latitude": 55.648535,
-				"longitude": 12.507005
+				"latitude": 55.648500,
+				"longitude": 12.507141
 			},
 			"location": {
 				"display_address": [
@@ -1215,7 +1463,7 @@
 		},
 		{
 			"id": "iKm39_vqws",
-			"name": "Minhaj-ul-Quran Int. Denmark Valby",
+			"name": "Foreningen Minhaj-Ul-Quran",
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-1/48359250_1955612341402114_5911197849223168000_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=_y0ju7vP-2sAX8PWalt&_nc_ht=scontent-arn2-1.xx&oh=b5aeb6962410285ef06373bd1cff64a9&oe=60B3307F",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/629bd535-44ea-4ad2-a165-4d15d5deda2c",
 			"url": "https://www.minhaj.org/english/denmark",
@@ -1231,8 +1479,53 @@
 				]
 			},
 			"phone": "+4571960786",
-			"display_phone": "+4571960786",
+			"display_phone": "+45 71 96 07 86",
 			"distance": 30.93
+		},
+
+		{
+			"id": "wlOo_Gluzv",
+			"name": "Muslim Cultural Institute",
+			"image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/o8PnlO2RlRS-gS7SZrohYQ/o.jpg",
+			"prayer_time_url": "",
+			"url": "",
+			"coordinates": {
+				"latitude": 55.668794,
+				"longitude": 12.542056
+			},
+			"location": {
+				"display_address": [
+					"Amerikavej 21",
+					"1758 København V",
+					"Denmark"
+				]
+			},
+			"phone": "+4571703673",
+			"display_phone": "+45 71 70 36 73",
+			"distance": 38
+		},
+
+
+		{
+			"id": "wXgl_zRrGs",
+			"name": "Masjid Sunnah",
+			"image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/pAIsh1BljfUMdj-AnlkSuw/o.jpg",
+			"prayer_time_url": "",
+			"url": "",
+			"coordinates": {
+				"latitude": 55.672680,
+				"longitude": 12.553733
+			},
+			"location": {
+				"display_address": [
+					"Vesterbrogade 56",
+					"1620 København V",
+					"Denmark"
+				]
+			},
+			"phone": "+4532170744",
+			"display_phone": "+45 32 17 07 44",
+			"distance": 37
 		},
 		{
 			"id": "g9V8fBlavy",
@@ -1310,7 +1603,7 @@
 			"location": {
 				"display_address": [
 					"Lantmannagatan 59A",
-					"21448 Malmö",
+					"214 48 Malmö",
 					"Sweden"
 				]
 			},
@@ -1331,7 +1624,7 @@
 			"location": {
 				"display_address": [
 					"Bennets väg 8",
-					"21367 Malmö",
+					"213 67 Malmö",
 					"Sweden"
 				]
 			},
@@ -1341,18 +1634,18 @@
 		},
 		{
 			"id": "Jy1_zfpjjz",
-			"name": "Det Skandinaviska WAKF i Sverige",
+			"name": "Skandinaviska Wakf I Sverige",
 			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t31.18172-8/17191785_1868102406770748_4507896688442843849_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=973b4a&_nc_ohc=1ShHkGE9d1wAX9J7xDs&_nc_ht=scontent-arn2-1.xx&oh=d22606d8876e591c8a9357e959658695&oe=60B75F7B",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/c1202ced-6935-48de-b3a6-f78cab79da8e",
 			"url": "https://www.wakf.se/",
 			"coordinates": {
-				"latitude": 55.596588,
-				"longitude": 13.042030
+				"latitude": 55.594197,
+				"longitude": 13.039454
 			},
 			"location": {
 				"display_address": [
 					"Danska vägen 26",
-					"21229 Malmö",
+					"212 29 Malmö",
 					"Sweden"
 				]
 			},
@@ -1373,7 +1666,7 @@
 			"location": {
 				"display_address": [
 					"Docentgatan 3b",
-					"21552 Malmö",
+					"215 52 Malmö",
 					"Sweden"
 				]
 			},
@@ -1394,7 +1687,7 @@
 			"location": {
 				"display_address": [
 					"Jägersrovägen 90",
-					"21237 Malmö",
+					"212 37 Malmö",
 					"Sweden"
 				]
 			},
@@ -1415,7 +1708,7 @@
 			"location": {
 				"display_address": [
 					"Hårdsväg 11",
-					"21365 Malmö",
+					"213 65 Malmö",
 					"Sweden"
 				]
 			},
@@ -1425,18 +1718,18 @@
 		},
 		{
 			"id": "jUXCs4G9P8",
-			"name": "Islamiska Föreningen Drita",
+			"name": "Drita Islamiska Föreningen",
 			"image_url": "https://scontent-arn2-2.xx.fbcdn.net/v/t31.18172-8/19800931_820919868058469_5208676552802630392_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=973b4a&_nc_ohc=MTgPuCmoDXIAX8-ZIKx&_nc_ht=scontent-arn2-2.xx&oh=c7e7dac0e5d8c8927c65862f5a01f398&oe=60B5E7C0",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/ebe4047a-73b8-4215-8cf2-bdf7d9b5f8ca",
 			"url": "https://www.facebook.com/ForeningenDrita/",
 			"coordinates": {
-				"latitude": 55.5800597,
-				"longitude": 13.0521041
+				"latitude": 55.580015,
+				"longitude": 13.052182
 			},
 			"location": {
 				"display_address": [
 					"Ramelsväg 103",
-					"21369 Malmö",
+					"213 69 Malmö",
 					"Sweden"
 				]
 			},
@@ -1446,7 +1739,7 @@
 		},
 		{
 			"id": "y4qBrMd1cH",
-			"name": "Minhaj ul-Quran Int. Sweden",
+			"name": "Minhaj-ul-Quran International, Sweden",
 			"image_url": "https://www.minhaj.net/images-db10/2018/Dr-Tahir-ul-Qadri-address-conference_Malmo-Sweden_2018-08-08_4.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/e329fd11-4ea2-430b-adc9-bb9a8b2ff0d0",
 			"url": "http://www.minhaj.se/",
@@ -1457,7 +1750,7 @@
 			"location": {
 				"display_address": [
 					"Paulsgatan 10",
-					"21446 Malmö",
+					"214 46 Malmö",
 					"Sweden"
 				]
 			},
