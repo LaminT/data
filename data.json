@@ -2081,12 +2081,12 @@
 		{
 			"id": "jWQ2MvXYaX",
 			"name": "Abu Bakar Sadeq",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620350600/mosques/abubakar.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620858498/mosques/abubakar.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/b834eea4-9412-433f-bf1b-2b4ebf5dd316",
 			"url": "",
 			"coordinates": {
-				"latitude": 55.5822716,
-				"longitude": 13.0193448
+				"latitude": 55.58226,
+				"longitude": 13.01911
 			},
 			"location": {
 				"display_address": [
@@ -2099,6 +2099,30 @@
 			"display_phone": "+46 73-880 02 71",
 			"distance": 2.75
 		},
+
+		{
+			"id": "dWJaNk44Ys",
+			"name": "Alsahaba Moskén مسجد الصحابة",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620859156/mosques/alsahaba.jpg",
+			"prayer_time_url": "",
+			"url": "",
+			"coordinates": {
+				"latitude": 55.58817,
+				"longitude": 13.04170
+			},
+			"location": {
+				"display_address": [
+					"von Rosens väg 28",
+					"213 66 Malmö",
+					"Sweden"
+				]
+			},
+			"phone": "+46704262132",
+			"display_phone": "+46 704-262 132",
+			"distance": 2.75
+		},
+
+
 		{
 			"id": "UCUHzPdIbU",
 			"name": "Den Islamiska Kultur Föreningen",
@@ -2162,6 +2186,97 @@
 			"display_phone": "",
 			"distance": 4.17
 		},
+
+		{
+			"id": "DyBvKTP6HE",
+			"name": "Masjid Al-Huda",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620857240/mosques/al-Huda.jpg",
+			"prayer_time_url": "https://time.my-masjid.com/timingscreen/7255efef-15f1-4c8e-a52d-b54e8e8eef0e",
+			"url": "",
+			"coordinates": {
+				"latitude": 55.56711,
+				"longitude": 13.02011
+			},
+			"location": {
+				"display_address": [
+					"Hermodsdalstorget 4",
+					"215 52 Malmö",
+					"Sweden"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 4.2
+		},
+
+
+		{
+			"id": "aXy107DZoW",
+			"name": "Al-Hoda Moskén",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620850173/mosques/al-HodaMoske%CC%81n.jpg",
+			"prayer_time_url": "",
+			"url": "http://www.ifbs.se/",
+			"coordinates": {
+				"latitude": 55.58596,
+				"longitude": 13.02498
+			},
+			"location": {
+				"display_address": [
+					"Västanforsgatan 21D",
+					"214 50 Malmö",
+					"Sweden"
+				]
+			},
+			"phone": "+46739-317491",
+			"display_phone": "+46 739-317 491",
+			"distance": 4.17
+		},
+
+		{
+			"id": "VlwBs4987p",
+			"name": "Bosniska Islamiska Föreningen Malmö",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620858048/mosques/bosniskaIslamiska_Fo%CC%88reningenMalmo%CC%88.jpg",
+			"prayer_time_url": "",
+			"url": "https://www.dzematmalmo.se/",
+			"coordinates": {
+				"latitude": 55.58316,
+				"longitude": 13.01734
+			},
+			"location": {
+				"display_address": [
+					"Ystadvägen 42",
+					"214 45 Malmö",
+					"Sweden"
+				]
+			},
+			"phone": "+4640193191",
+			"display_phone": "+46 401-931 91",
+			"distance": 4.17
+		},
+
+		{
+			"id": "QC7TiztZrk",
+			"name": "Mahmood Mosque",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620850917/mosques/mahmoodmosken.jpg",
+			"prayer_time_url": "",
+			"url": "http://mahmoodmosken.se/",
+			"coordinates": {
+				"latitude": 55.57037,
+				"longitude": 13.08257
+			},
+			"location": {
+				"display_address": [
+					"Hästskogatan 1",
+					"213 77 Malmö",
+					"Sweden"
+				]
+			},
+			"phone": "+46765522225",
+			"display_phone": "+46 765-522 225",
+			"distance": 10.17
+		},
+
+
 		{
 			"id": "gN9KsAd6gI",
 			"name": "Islamic Centers Församling",
@@ -2244,8 +2359,9 @@
 			},
 			"phone": "+4640190555",
 			"display_phone": "+46 40-19 05 55",
-			"distance": 2.6
+			"distance": 2.61
 		}
+		
 
 	]
 }
