@@ -690,8 +690,8 @@
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/4b4e59b7-311a-4a82-ac65-5865d540aaee",
 			"url": "",
 			"coordinates": {
-				"latitude": 55.663998,
-				"longitude": 12.357761
+				"latitude": 55.682000,
+				"longitude": 11.112910
 			},
 			"location": {
 				"display_address": [
@@ -732,8 +732,8 @@
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/4494f72e-23d0-492c-bca7-672e7bfca94a",
 			"url": "http://dcamoske.dk/",
 			"coordinates": {
-				"latitude": 55.704978,
-				"longitude": 12.528349
+				"latitude": 55.704980,
+				"longitude": 12.528350
 			},
 			"location": {
 				"display_address": [
@@ -748,14 +748,14 @@
 		},
 
 		{
-			"id": "",
+			"id": "QzihEVbfHg",
 			"name": "Islamic Center Jafferia",
 			"image_url": "https://lh3.googleusercontent.com/p/AF1QipOddSNxztVraYyFeE6GGVKvNajSyMtrpHqqpo1m=s1600-w700",
 			"prayer_time_url": "",
 			"url": "https://maps123.net/en/DK/islamic-center-jafferia-p81738",
 			"coordinates": {
-				"latitude": 55.7014221, 
-				"longitude": 12.5541976
+				"latitude": 55.701380, 
+				"longitude": 12.554160
 			},
 			"location": {
 				"display_address": [
@@ -798,8 +798,8 @@
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/3288ee62-b7e7-4a39-bf0c-00b88ceafdec",
 			"url": "https://hamad-bin-khalifa-civilisation-center.business.site/website/hamad-bin-khalifa-civilisation-center/",
 			"coordinates": {
-				"latitude": 55.708576,
-				"longitude": 12.549007
+				"latitude": 55.708220,
+				"longitude": 12.548490
 			},
 			"location": {
 				"display_address": [
@@ -1291,8 +1291,8 @@
 			"prayer_time_url": "",
 			"url": "https://maps123.net/en/DK/masjid-al-nour-p81743",
 			"coordinates": {
-				"latitude": 55.687327, 
-				"longitude": 12.5589851
+				"latitude": 55.687320, 
+				"longitude": 12.559010
 			},
 			"location": {
 				"display_address": [
@@ -2085,8 +2085,8 @@
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/b834eea4-9412-433f-bf1b-2b4ebf5dd316",
 			"url": "",
 			"coordinates": {
-				"latitude": 55.58226,
-				"longitude": 13.01911
+				"latitude": 55.581440,
+				"longitude": 13.019370
 			},
 			"location": {
 				"display_address": [
@@ -2172,8 +2172,8 @@
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/7255efef-15f1-4c8e-a52d-b54e8e8eef0e",
 			"url": "",
 			"coordinates": {
-				"latitude": 55.5662806,
-				"longitude": 13.0198866
+				"latitude": 55.56640826030563,
+				"longitude": 13.020011386412428
 			},
 			"location": {
 				"display_address": [
@@ -2194,12 +2194,12 @@
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/7255efef-15f1-4c8e-a52d-b54e8e8eef0e",
 			"url": "",
 			"coordinates": {
-				"latitude": 55.56711,
-				"longitude": 13.02011
+				"latitude": 55.566770,
+				"longitude": 13.021020
 			},
 			"location": {
 				"display_address": [
-					"Hermodsdalstorget 4",
+					"HERMODSDALSTORGET 4",
 					"215 52 Malmö",
 					"Sweden"
 				]
@@ -2217,8 +2217,8 @@
 			"prayer_time_url": "",
 			"url": "http://www.ifbs.se/",
 			"coordinates": {
-				"latitude": 55.58596,
-				"longitude": 13.02498
+				"latitude": 55.58443030252995,
+				"longitude": 13.024479473801158
 			},
 			"location": {
 				"display_address": [
@@ -2239,8 +2239,8 @@
 			"prayer_time_url": "",
 			"url": "https://www.dzematmalmo.se/",
 			"coordinates": {
-				"latitude": 55.58316,
-				"longitude": 13.01734
+				"latitude": 55.58070635095614,
+				"longitude": 13.016706469376235
 			},
 			"location": {
 				"display_address": [
@@ -2261,8 +2261,8 @@
 			"prayer_time_url": "",
 			"url": "http://mahmoodmosken.se/",
 			"coordinates": {
-				"latitude": 55.57037,
-				"longitude": 13.08257
+				"latitude": 55.5662306094326,
+				"longitude": 13.082137835128277
 			},
 			"location": {
 				"display_address": [
