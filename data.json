@@ -124,7 +124,7 @@
 		{
 			"id": "SpQdHJ_VAn",
 			"name": "Wakf Aarhus",
-			"image_url": "https://scontent-arn2-2.xx.fbcdn.net/v/t1.6435-9/102899929_3171831916213665_2031238796296884569_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=973b4a&_nc_ohc=UjcS_e7Bg70AX-i9FRF&_nc_ht=scontent-arn2-2.xx&oh=de49ceb825fbd26188f87b41b5ec8449&oe=60B35B06",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621261457/wakfAarhus_dka0rg.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/726ae6ad-8d77-4cb7-b52a-bfdb540ee225",
 			"url": "https://alwakf.dk/",
 			"coordinates": {
@@ -340,7 +340,7 @@
 		{
 			"id": "uDIjau9Br_",
 			"name": "PAK Kultur Center Brøndby",
-			"image_url": "https://scontent-arn2-2.xx.fbcdn.net/v/t1.6435-9/46648908_2184209934936239_6817869980894232576_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=973b4a&_nc_ohc=zL0AfHus_qkAX_Sd-cl&_nc_ht=scontent-arn2-2.xx&oh=78a44dfebdcfb783aaef502fc307a032&oe=60B5AFC9",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621261134/mosques/pakKultur.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/122f8723-e2ec-4b2d-b664-cebc9ef2c2af",
 			"url": "",
 			"coordinates": {
@@ -578,7 +578,7 @@
 		{
 			"id": "JPT4tidz5W",
 			"name": "Masjid Al-Noor",
-			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.18169-9/24909893_441762036220462_474295370941929488_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=973b4a&_nc_ohc=TL6cp76HtVEAX-mNKhl&_nc_ht=scontent-arn2-1.xx&oh=7c8729ed74bf2421ff2537762c84711f&oe=60B61EE0",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621258042/mosques/noor.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/7a9c2624-6dca-4a01-9dc0-16a3c604a3be",
 			"url": "",
 			"coordinates": {
@@ -773,7 +773,7 @@
 		{
 			"id": "dDXYHLWOQ4",
 			"name": "Masjid Al-Faruq",
-			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.18169-9/23843141_1293530464085605_4952130936671482681_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=973b4a&_nc_ohc=DjqrAdrfteYAX9D5zW-&_nc_ht=scontent-arn2-1.xx&oh=a97d8f5313ae51382a8701e9025b82f7&oe=60B56A5A",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621260549/mosques/faruq.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/74d65997-3474-44f5-ae6a-93269cd7e9d2",
 			"url": "",
 			"coordinates": {
@@ -880,7 +880,7 @@
 		{
 			"id": "ZX1J8iyRtT",
 			"name": "Baitul Mukarram Danmark",
-			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/61066742_2281709455418475_632336039146422272_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=e3f864&_nc_ohc=-CiPOzYx3KsAX9ME9_5&_nc_ht=scontent-arn2-1.xx&oh=27541a21d9e8201ce4aa47df3644f582&oe=60B6C9B4",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621260005/mosques/baitul.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/e048a236-a44d-402f-80d3-786b09194172",
 			"url": "",
 			"coordinates": {
@@ -1568,7 +1568,7 @@
 		{
 			"id": "NjwQsmmZRz",
 			"name": "Masjid Næstved",
-			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/60592452_2716562365026944_8043045909300248576_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=973b4a&_nc_ohc=KxG8vpL7ThwAX-B8t7v&_nc_ht=scontent-arn2-1.xx&oh=60a63fa81c96367f21f7d30060566827&oe=60B591CE",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621259620/mosques/n%C3%A6stved.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/d0fd171f-8d60-4e1c-b980-f3627c6da2f1",
 			"url": "",
 			"coordinates": {
@@ -1589,7 +1589,7 @@
 		{
 			"id": "Wr7180r-IT",
 			"name": "Nivå Moske",
-			"image_url": "https://lh3.googleusercontent.com/p/AF1QipNCIiaUkMn1BuQhHUP0eKyQzDAj3cTBwJr2d8A0=s1600-w400",
+			"image_url": "https://lh3.googleusercontent.com/p/AF1QipNCIiaUkMn1BuQhHUP0eKyQzDAj3cTBwJr2d8A0=s1600-w700",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/41c8898e-bf69-4af3-b4e3-acc6c21f383b",
 			"url": "https://maps123.net/en/DK/prayer-hall-mosque-p86648",
 			"coordinates": {
@@ -1694,7 +1694,7 @@
 		{
 			"id": "YuGLDOeisW",
 			"name": "Det Islamiske Hus",
-			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/56811342_2184915798266969_7838829379835658240_n.png?_nc_cat=107&ccb=1-3&_nc_sid=e3f864&_nc_ohc=WYGsLVKYPSkAX-ppFJh&_nc_ht=scontent-arn2-1.xx&oh=87bb78f2d6c29d384a874759abe8615c&oe=60B5DA1D",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621259203/mosques/detIslamiskeHus.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/5f3bcfff-4705-43c6-bd29-3374b4105718",
 			"url": "",
 			"coordinates": {
@@ -1736,7 +1736,7 @@
 		{
 			"id": "J4QUcYaaY1",
 			"name": "Masjid al Tawfiq",
-			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/50326228_523855964690136_8194823237427789824_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=973b4a&_nc_ohc=GbtxCvIn5pkAX-Y4tqh&_nc_ht=scontent-arn2-1.xx&oh=432d01b697dbd48e3afbbda3739002b1&oe=60B690F0",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621258720/mosques/tawfiq.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/e303cd11-0edd-4221-890b-863a5c0e58a8",
 			"url": "",
 			"coordinates": {
@@ -1778,7 +1778,7 @@
 		{
 			"id": "yCBclvmD9w",
 			"name": "Iqra Kultur Forening",
-			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/34598768_820897724773961_5468375257737854976_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=zX04DSpMvHYAX9EKSv6&_nc_ht=scontent-arn2-1.xx&oh=fa86319d99ae442d84f84d50a61e3bd9&oe=60B53FAF",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621262118/iqra_mxsygg.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/4cf1bfce-34cf-4bd3-ab85-e380ee4d94e8",
 			"url": "",
 			"coordinates": {
@@ -1823,7 +1823,7 @@
 		{
 			"id": "sqZkl7P37l",
 			"name": "Islamisk Forum",
-			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.18169-9/64065_148980371810048_1536996_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=973b4a&_nc_ohc=CdX-n4q0RaAAX-Yi2_f&_nc_ht=scontent-arn2-1.xx&oh=ff3059adc11385551235daa4cca2a7cd&oe=60B43780",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621262486/forum_nxhagj.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/0e95e321-a7eb-486f-af37-c97653c96eda",
 			"url": "",
 			"coordinates": {
@@ -1910,7 +1910,7 @@
 		{
 			"id": "vL5kQLJoSj",
 			"name": "Imam Malik Instituttet",
-			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-9/161437365_10159045188239696_3062714561937138771_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=973b4a&_nc_ohc=7EhGTMdAVCoAX8OnTtN&_nc_ht=scontent-arn2-1.xx&oh=9ea20ec323cd0a049a37ff5e9b01179c&oe=60B68039",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621262892/imamMalik_bqftlb.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/8107912b-1637-4824-9279-07c57f8b2198",
 			"url": "http://imammalik.dk/",
 			"coordinates": {
@@ -1952,7 +1952,7 @@
 		{
 			"id": "iKm39_vqws",
 			"name": "Foreningen Minhaj-Ul-Quran",
-			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t1.6435-1/48359250_1955612341402114_5911197849223168000_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=dbb9e7&_nc_ohc=_y0ju7vP-2sAX8PWalt&_nc_ht=scontent-arn2-1.xx&oh=b5aeb6962410285ef06373bd1cff64a9&oe=60B3307F",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621263270/mosques/valbyMinhaj.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/629bd535-44ea-4ad2-a165-4d15d5deda2c",
 			"url": "https://www.minhaj.org/english/denmark",
 			"coordinates": {
@@ -2147,7 +2147,7 @@
 		{
 			"id": "Jy1_zfpjjz",
 			"name": "Skandinaviska Wakf I Sverige",
-			"image_url": "https://scontent-arn2-1.xx.fbcdn.net/v/t31.18172-8/17191785_1868102406770748_4507896688442843849_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=973b4a&_nc_ohc=1ShHkGE9d1wAX9J7xDs&_nc_ht=scontent-arn2-1.xx&oh=d22606d8876e591c8a9357e959658695&oe=60B75F7B",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621263454/mosques/skandinaviskaWakfISverige.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/c1202ced-6935-48de-b3a6-f78cab79da8e",
 			"url": "https://www.wakf.se/",
 			"coordinates": {
@@ -2322,9 +2322,9 @@
 		{
 			"id": "jUXCs4G9P8",
 			"name": "Drita Islamiska Föreningen",
-			"image_url": "https://scontent-arn2-2.xx.fbcdn.net/v/t31.18172-8/19800931_820919868058469_5208676552802630392_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=973b4a&_nc_ohc=MTgPuCmoDXIAX8-ZIKx&_nc_ht=scontent-arn2-2.xx&oh=c7e7dac0e5d8c8927c65862f5a01f398&oe=60B5E7C0",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621263773/mosques/drita.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/ebe4047a-73b8-4215-8cf2-bdf7d9b5f8ca",
-			"url": "https://www.facebook.com/ForeningenDrita/",
+			"url": "",
 			"coordinates": {
 				"latitude": 55.580015,
 				"longitude": 13.052182
