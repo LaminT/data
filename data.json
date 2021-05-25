@@ -2017,8 +2017,8 @@
 		},
 		{
 			"id": "g9V8fblavy",
-			"name": "Masjid Al-Nur",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"name": "Masjid Al-Nour",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621932818/mosques/somalianMasjid.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/b9a36edb-de7c-49d8-96c8-5d62b650a17e",
 			"url": "",
 			"coordinates": {
@@ -2034,7 +2034,7 @@
 			},
 			"phone": "",
 			"display_phone": "",
-			"distance": 283.15
+			"distance": 330
 		},
 		{
 			"id": "UL3J_aUt79",
