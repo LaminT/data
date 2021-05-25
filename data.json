@@ -86,7 +86,7 @@
 		{
 			"id": "IhT-ATCbat",
 			"name": "Masjid Bilal",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620348139/mosques/bilal.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621965208/masjidBilal_yhzclm.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/45a0db73-58c7-455c-928d-a9e99d789f69",
 			"url": "https://bilal-islamic-center.dk/",
 			"coordinates": {
@@ -128,8 +128,8 @@
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/726ae6ad-8d77-4cb7-b52a-bfdb540ee225",
 			"url": "https://alwakf.dk/",
 			"coordinates": {
-				"latitude": 57.165195,
-				"longitude": 10.124454
+				"latitude": 56.163270,
+				"longitude": 10.125238
 			},
 			"location": {
 				"display_address": [
