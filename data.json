@@ -167,7 +167,7 @@
 		{
 			"id": "X4zwtpkUbC",
 			"name": "Albertslund Alaadin Camii",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621933965/mosques/alaadinCamii.jpg",
 			"prayer_time_url": "",
 			"url": "http://www.albertslundkulturhus.dk/",
 			"coordinates": {
@@ -229,30 +229,6 @@
 			"display_phone": "+45 36 75 78 69",
 			"distance": 48.3
 		},
-
-		{
-			"id": "80UKGq1XSW",
-			"name": "Tyrkisk Kultur og Idrædsforening",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
-			"prayer_time_url": "",
-			"url": "",
-			"coordinates": {
-				"latitude": 55.7553958, 
-				"longitude": 12.3406571 
-			},
-			"location": {
-				"display_address": [
-					"Jonstrupvej 246",
-					"2750 Ballerup",
-					"Denmark"
-				]
-			},
-			"phone": "+4544976193",
-			"display_phone": "+45 44 97 61 93",
-			"distance": 65.7
-		},
-
-
 		{
 			"id": "okbs8LmVzE",
 			"name": "Ayasofya Moské",
@@ -382,8 +358,8 @@
 
 		{
 			"id": "ojhnBHX0GA",
-			"name": "Den Muslimske",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"name": "Det Muslimske Kulturcenter",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621935974/mosques/detMuslimskeKulturcenter.jpg",
 			"prayer_time_url": "",
 			"url": "",
 			"coordinates": {
@@ -393,7 +369,7 @@
 			"location": {
 				"display_address": [
 					"Skjulhøj Allé 29",
-					"272o Vanløse",
+					"2720 Vanløse",
 					"Denmark"
 				]
 			},
@@ -405,7 +381,7 @@
 		{
 			"id": "hN8sJwj8vi",
 			"name": "Al-Ma'rifah Herlev Masjid",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621938690/mosques/herlevMasjid.jpg",
 			"prayer_time_url": "",
 			"url": "",
 			"coordinates": {
@@ -536,7 +512,7 @@
 		{
 			"id": "2LL32kDwCk",
 			"name": "Masjid Al-Furqan",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621939695/mosques/al-Furqan.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/39c7e64b-e3b1-489a-a2f9-d0f6cf4af4b9",
 			"url": "",
 			"coordinates": {
@@ -557,7 +533,7 @@
 		{
 			"id": "mrN8-sWAvJ",
 			"name": "Masjid Rahma Holbæk",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621940775/mosques/masjidRahma_Holb%C3%A6k.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/f76a8cef-c3cf-49a3-9a8f-2bedea07c492",
 			"url": "",
 			"coordinates": {
@@ -686,7 +662,7 @@
 		{
 			"id": "lQ48liCbwL",
 			"name": "Masjid Al-Nuur",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621942823/mosques/al-Nuur.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/4b4e59b7-311a-4a82-ac65-5865d540aaee",
 			"url": "",
 			"coordinates": {
@@ -707,7 +683,7 @@
 		{
 			"id": "2RtjpXMFbm",
 			"name": "Masjid At-Taqwa",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621943346/mosques/at-Taqwa.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/c179362d-18aa-4678-ac1e-8eb3f77d1f56",
 			"url": "",
 			"coordinates": {
@@ -721,14 +697,14 @@
 					"Denmark"
 				]
 			},
-			"phone": "",
-			"display_phone": "",
+			"phone": "+4524402715",
+			"display_phone": "+45 24 40 27 15",
 			"distance": 120.28
 		},
 		{
 			"id": "qZiGEvbfHg",
 			"name": "Den Centrale Albanske Moske",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621944671/mosques/DCAM.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/4494f72e-23d0-492c-bca7-672e7bfca94a",
 			"url": "http://dcamoske.dk/",
 			"coordinates": {
@@ -737,7 +713,7 @@
 			},
 			"location": {
 				"display_address": [
-					"Theklevej 26",
+					"Theklavej 26",
 					"2400 København N",
 					"Denmark"
 				]
@@ -836,7 +812,7 @@
 		{
 			"id": "VI-WYN5ofI",
 			"name": "Masjid Tawheed",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620834735/mosques/tawhiid.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/10feaa9d-34db-4811-82bc-92090324be4c",
 			"url": "",
 			"coordinates": {
@@ -967,7 +943,7 @@
 		{
 			"id": "DXpj9dujXw",
 			"name": "ROTTON PUKUR Jamee Mosque",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621945554/jameeMosque_wrz6e8.jpg",
 			"prayer_time_url": "",
 			"url": "https://maps123.net/en/DK/rotton-pukur-jamee-mosque-p81787",
 			"coordinates": {
@@ -976,7 +952,7 @@
 			},
 			"location": {
 				"display_address": [
-					"Ålholmvej 15 STTV",
+					"Ålholmvej 15 ST TV",
 					"2500 København",
 					"Denmark"
 				]
@@ -988,7 +964,7 @@
 		{
 			"id": "igcwl8aU_O",
 			"name": "Islamic Kultur Center",
-			"image_url": "https://images.squarespace-cdn.com/content/v1/5f0c447de6349c58c2a5db80/1600163127916-21Y7EWQ6B6GENZWHRDYY/ke17ZwdGBToddI8pDm48kPqQfq0L3n3wpHIsRapTfg8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKczo5Zn4xktlpMsMj-QlHXeMfNK6GwvtVkYEWiR8XAPyD3GfLCe_DXOSC_YcAacWL_/_DSC3505.jpg?format=1500w",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621945856/islamicKulturCenter_sehnwy.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/be77d4ed-cef0-444c-9bf5-a2ae93301833",
 			"url": "https://www.cpharchive.com/dk/hjem/islamic-cultural-center",
 			"coordinates": {
@@ -1009,7 +985,7 @@
 		{
 			"id": "JAaRxTApes",
 			"name": "Masjid Imaan",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621946469/masjidImaan_pq60aw.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/8daf4235-25ba-4159-84d2-a8e2d5978aa7",
 			"url": "",
 			"coordinates": {
@@ -1137,7 +1113,7 @@
 		{
 			"id": "P6Rx7MnBXF",
 			"name": "Masjid Quba",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621948758/quba_pxc107.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/071ac67c-6a8f-494d-b393-f8a5f9034c95",
 			"url": "",
 			"coordinates": {
@@ -1351,29 +1327,6 @@
 		},
 
 		{
-			"id": "iaemjxQGo9",
-			"name": "Masjid Tawhiid",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
-			"prayer_time_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620834735/mosques/tawhiid.jpg",
-			"url": "",
-			"coordinates": {
-				"latitude": 55.6960613, 
-				"longitude": 12.5358147
-			},
-			"location": {
-				"display_address": [
-					"Nordre Fasanvej 186B",
-					"2000 Frederiksberg",
-					"Denmark"
-				]
-			},
-			"phone": "+4538107724",
-			"display_phone": "+45 38 10 77 24",
-			"distance": 47.2
-		},
-
-
-		{
 			"id": "evY7_yBL4L",
 			"name": "Imam Ali Moske",
 			"image_url": "https://lh3.googleusercontent.com/p/AF1QipMdcafmGU7rU_k2bxfil7WjWy5mPS6ylrbM33OT=s1600-w700",
@@ -1418,7 +1371,7 @@
 		{
 			"id": "ce2skIBK7x",
 			"name": "Bosnisk Kulturcenter",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621949987/bosniskKulturcenter_lcnffj.jpg",
 			"prayer_time_url": "",
 			"url": "http://www.izbd.dk/",
 			"coordinates": {
@@ -1427,7 +1380,7 @@
 			},
 			"location": {
 				"display_address": [
-					"Thorsgade 5, Th 3.sal.",
+					"Thorsgade 5, Th 3. sal.",
 					"2200 København N",
 					"Denmark"
 				]
@@ -1505,7 +1458,7 @@
 		{
 			"id": "mNaAkxzFex",
 			"name": "Venskabsforening Kolding",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621950620/venskabsforening_hokizv.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/33c1c8b9-6908-4e19-9b95-a40b08bfa920",
 			"url": "",
 			"coordinates": {
@@ -1651,8 +1604,8 @@
 		},
 		{
 			"id": "wNd1XLPAKI",
-			"name": "Wakf Al-massira Ringsted moske",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"name": "Wakf Al-massira Ringsted Moske",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621951469/ringstedMoske_rar4r7.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/50dfcfa3-0e8d-41d8-8e8a-e67ac06f5629",
 			"url": "",
 			"coordinates": {
@@ -1715,7 +1668,7 @@
 		{
 			"id": "q2J3PxM0nx",
 			"name": "Masjid Al Noor",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621951804/al-Noor_gxitvr.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/44bd9895-7215-4f34-950d-5cd1abf0fd86",
 			"url": "",
 			"coordinates": {
@@ -1844,7 +1797,7 @@
 		{
 			"id": "yE9Ds-jegP",
 			"name": "Masjid Al Rahma",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621952084/alRahma_bkde9d.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/6abbf8c7-601c-4158-b2bf-b5b12e82fe35",
 			"url": "",
 			"coordinates": {
@@ -2017,7 +1970,7 @@
 		},
 		{
 			"id": "g9V8fblavy",
-			"name": "Masjid Al-Nour",
+			"name": "Masjid Nur",
 			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621932818/mosques/somalianMasjid.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/b9a36edb-de7c-49d8-96c8-5d62b650a17e",
 			"url": "",
@@ -2126,7 +2079,7 @@
 		{
 			"id": "UCUHzPdIbU",
 			"name": "Den Islamiska Kultur Föreningen",
-			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1620341594/mosques/mosque.png",
+			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1621952547/denIslamiskaKulturFo%CC%88reningen_ptur3j.jpg",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/d81c3f42-7b4a-43d0-8f22-1a747a17083b",
 			"url": "",
 			"coordinates": {
