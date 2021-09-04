@@ -110,6 +110,10 @@
 			"image_url": "https://res.cloudinary.com/dx2mzectz/image/upload/v1619973477/mosques/masjidsalsabil.png",
 			"prayer_time_url": "https://time.my-masjid.com/timingscreen/073711df-a0fc-4e28-95a6-58a1f0ed5ddc",
 			"url": "",
+			"coordinates": {
+				"latitude": 56.179580,
+				"longitude": 10.166900
+			},
 			"location": {
 				"display_address": [
 					"Kappelvænget 6 C",
